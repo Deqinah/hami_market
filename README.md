@@ -48,7 +48,7 @@ It allows users to browse products, view details, and add items to a shopping ca
 ##  How to Run the App
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Deqinah/himi_market
+   git clone https://github.com/Deqinah/hami_market
 
 2. flutter run -d chrome
 
