@@ -8,6 +8,7 @@ This project is a starting point for a Flutter application.
 
 
 ## Project Description
+
 Hami MiniMarket is a simple Flutter mobile app built for the **HamiSkills Internship (Week 1 Task)**.  
 The app introduces a small community market that sells fresh fruits and vegetables.  
 It allows users to browse products, view details, and add items to a shopping cart.
@@ -41,7 +42,7 @@ It allows users to browse products, view details, and add items to a shopping ca
 
 ## VIDEO
  
-[video](video/hamivideo.mp4) 
+[video](video/hamivideos.mp4) 
 
 
 ##  How to Run the App
