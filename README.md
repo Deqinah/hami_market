@@ -1,4 +1,4 @@
-# Himi_market
+# Hami_market
 
 A new Flutter project.
 
@@ -41,7 +41,7 @@ It allows users to browse products, view details, and add items to a shopping ca
 
 ## VIDEO
  
-[video](video/himivideo.mp4) 
+[video](video/hamivideo.mp4) 
 
 
 ##  How to Run the App
